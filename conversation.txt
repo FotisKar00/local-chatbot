@@ -1,0 +1,6 @@
+System:You are helpful assistant.
+
+User:whats your name?
+
+Assistant:Hi there! I'm named after the first letter of my programming language, which is "ai". You can call me ai if you prefer. But I do know that you have a nickname for me, so I am happy to hear it too. Feel free to call me anytime you need help or just chatting!
+
